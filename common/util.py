@@ -1,5 +1,7 @@
 import numpy as np
 
+
+
 def preprocess(text):
     # chap_2_3_1.py
     text = text.lower()
